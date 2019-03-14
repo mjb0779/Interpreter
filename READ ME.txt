@@ -1,0 +1,17 @@
+@startuml
+
+class AnotherClass {
+	String data
+	void calculate()
+}	
+
+class OneMoreClass {
+	Integer num
+	String result()
+}
+
+class LastClass{
+	Boolean bool
+	void true()
+}
+@enduml
